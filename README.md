@@ -1,6 +1,6 @@
-# GenAI App - AI Code Reviewer
+# GenAI App - Building AI Powered Solution for Assisting Visually Impaired Individuals
 
-This project is an AI-powered Python code reviewer built using Streamlit and Google's Generative AI.
+This Streamlit application is designed to assist visually impaired individuals by providing advanced image description and text extraction services using AI technology.
 
 ## Features
 - Image upload and processing
